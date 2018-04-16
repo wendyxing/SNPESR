@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SNPE SR</string>
+    <string name="model_name">Model Name</string>
+    <string name="model_dimensions">Dimensions</string>
+    <string name="model_version">Model Version</string>
+</resources>
